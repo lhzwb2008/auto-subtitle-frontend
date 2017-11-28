@@ -16,9 +16,9 @@
 
 
 
-## 项目部署
+## 项目启动(调试模式)
 
-#### milan_server
+#### backend
 
 `mvn package`
 
@@ -26,7 +26,7 @@
 
 `java -jar milan-server-0.0.1-SNAPSHOT.jar` 
 
-#### Milan_admin
+#### frontend
 
 `npm install`
 
